@@ -36,7 +36,8 @@
 - The [Google Cloud Natural Language API](https://cloud.google.com/natural-language/docs)
 - The [Botnik Studios Predictive Text Writer](https://botnik.org/apps/writer/)
 - The [Bars for Days, Chips With Lays API](https://andcomputers.io/bars-for-days-chips-with-lays/)
-- Using tools like the above to analyze media and produce satirical influencer content (variety is the spice of life 🤷🏻‍♀️) 
+- Using tools like the above to analyze media and produce satirical influencer content
+- CSS art and CSS animations (variety is the spice of life 🤷🏻‍♀️) 
 
 <!--
 **cececlar/cececlar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
