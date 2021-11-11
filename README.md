@@ -1,4 +1,42 @@
-### Hi there 👋
+# Hi, I'm Cece 
+
+## I am a...
+👩🏻‍💻 Senior Educator in the Web Development Diploma Program at [BrainStation](https://brainstation.io/)
+🈴 Language nerd (both human and machine) 
+📣 Computer programming evangelist (anyone can code, everyone should code) 
+👩🏻‍🏫 Former high school teacher (in the US and China) 
+✊ Social justice advocate (**BLACK LIVES MATTER**)
+
+## I build websites and web apps with...
+- JavaScript
+- Node.js 
+- Express.js 
+- React.js 
+- MongoDB 
+- MySQL 
+- PostgresQL 
+- Ruby 
+- Ruby on Rails 
+- HTML 
+- CSS 
+- SCSS 
+- BootStrap 
+- Material UI 
+- Nivo 
+
+## I'm currently learning...
+- Natural language processing
+- Python
+- AWS
+
+## I'm currently interested in...
+- Sentiment analysis 
+- Intent classification 
+- Predictive text 
+- The [Google Cloud Natural Language API](https://cloud.google.com/natural-language/docs)
+- The [Botnik Studios Predictive Text Writer](https://botnik.org/apps/writer/)
+- The [Bars for Days, Chips With Lays API](https://andcomputers.io/bars-for-days-chips-with-lays/)
+- Using tools like the above to analyze media and produce satirical influencer content (variety is the spice of life 🤷🏻‍♀️) 
 
 <!--
 **cececlar/cececlar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
