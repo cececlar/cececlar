@@ -13,6 +13,7 @@
 - Express.js 
 - React.js 
 - MongoDB 
+- Mongoose
 - MySQL 
 - PostgresQL 
 - Ruby 
