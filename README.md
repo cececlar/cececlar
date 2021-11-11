@@ -1,11 +1,11 @@
 # Hi, I'm Cece 
 
 ## I am a...
-- 👩🏻‍💻 Senior Educator in the Web Development Diploma Program at [BrainStation](https://brainstation.io/)
-- 🈴 Language nerd (both human and machine) 
-- 📣 Computer programming evangelist (anyone can code, everyone should code) 
-- 👩🏻‍🏫 Former high school teacher (US and China) 
-- ✊ Social justice advocate (**BLACK LIVES MATTER**)
+- 👩🏻‍💻  Senior Educator in the Web Development Diploma Program at [BrainStation](https://brainstation.io/)
+- 🈴  Language nerd (both human and machine) 
+- 📣  Computer programming evangelist (anyone can code, everyone should code) 
+- 👩🏻‍🏫  Former high school teacher (US and China) 
+- ✊  Social justice advocate (**BLACK LIVES MATTER**)
 
 ## I build websites and web apps with...
 - JavaScript
