@@ -36,7 +36,7 @@
 - Predictive text 
 - The [Google Cloud Natural Language API](https://cloud.google.com/natural-language/docs)
 - The [Bars for Days, Chips With Lays API](https://andcomputers.io/bars-for-days-chips-with-lays/)
-- Using tools like the above to analyze media and produce satirical influencer content
+- Using tools like the above to analyze media and produce satire
 - [OpenAI API](https://beta.openai.com/)
 - [Triangulation](https://snorpey.github.io/triangulation/)
 - `Array.prototype.reduce()`
